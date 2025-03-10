@@ -4,4 +4,4 @@ Then, add a search filter, to search for products by name, using: https://dummyj
 
 No libraries are allowed, except for React and its dependencies.
 
-Once done, push your changes to this repo, on another branch, called "dev-<firstName>-<lastName>"
+Once done, push your changes to this repo, on another branch, called "dev-(firstName)-(lastName)"
